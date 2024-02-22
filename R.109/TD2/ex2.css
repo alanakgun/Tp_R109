@@ -1,0 +1,38 @@
+
+article{
+
+    padding: 10px;
+    border-style: groove;
+    box-sizing: border-box;
+    display: inline-block;
+    width: calc(100% / 3);
+
+
+}
+
+
+.article1{
+
+    background-color:rgba(165, 42, 42, 0.527);
+    color: blanchedalmond;
+    
+    float: left;
+    
+}
+
+.article2{
+
+    background-color: beige;
+    color: rgba(165, 42, 42, 0.527);
+    
+    float: left;
+
+}
+
+.article3{
+
+    background-color:antiquewhite;
+    color: rgba(165, 112, 42, 0.534);  
+    
+    float: right;
+}

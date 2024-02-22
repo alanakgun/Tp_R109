@@ -1,0 +1,25 @@
+.article{
+    background-color: bisque;
+    padding:10px;
+    box-sizing: border-box;
+    width: calc(100%/3);
+    display: inline-block;
+    vertical-align: top;
+}
+
+#article2{
+    background-color: aqua;
+    
+}
+
+#article3{
+    background-color: chartreuse;
+
+
+}
+
+
+.article4{
+    background-color: deeppink;
+    
+}
